@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Till and receipt">
+  <title>Till and receipt</title>
+  <path d="M12 30 H52 L56 52 H8 Z" fill="none" stroke="#2b1d16" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="18" y="10" width="28" height="14" rx="3" fill="none" stroke="#2b1d16" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M26 17 H38" stroke="#b5441f" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M18 40 H24 M30 40 H36 M42 40 H46" stroke="#1c6a63" stroke-width="3.5" stroke-linecap="round"/>
+</svg>

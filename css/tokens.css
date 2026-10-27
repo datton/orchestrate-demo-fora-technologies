@@ -1,1 +1,49 @@
-:root{/* design tokens: designer */}
+/* Design tokens: fora-technologies. Warm, modern hospitality; generic, no real brand marks.
+   Palette: cream paper, espresso ink, terracotta for actions, teal for contrast, saffron as a fill only.
+   Contrast (hand-calculated, AA): ink on cream ~14:1, terracotta-700 on cream ~6:1,
+   white on terracotta-700 ~6.5:1, white on teal-700 ~6.6:1, ink on saffron ~9:1.
+   Type: system stacks only. Headings use a serif for warmth, body a clean sans; 1.25 scale. */
+:root {
+  --color-paper: #fbf6ef;
+  --color-surface: #ffffff;
+  --color-blush: #f6e6d8;
+  --color-ink: #2b1d16;
+  --color-ink-soft: #5a463b;
+  --color-line: #e2d3c4;
+  --color-terracotta-600: #b5441f;
+  --color-terracotta-700: #9a3718;
+  --color-teal-700: #1c6a63;
+  --color-teal-100: #dcefec;
+  --color-saffron: #e8a33d;
+  --color-focus: #0b63ce;
+
+  --font-body: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-heading: Georgia, "Iowan Old Style", "Palatino Linotype", Palatino, serif;
+
+  --text-sm: 0.9rem;
+  --text-base: 1.0625rem;
+  --text-md: 1.3rem;
+  --text-lg: 1.65rem;
+  --text-xl: 2.1rem;
+  --text-2xl: 2.7rem;
+  --leading-tight: 1.2;
+  --leading-body: 1.65;
+  --weight-heading: 700;
+
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --space-6: 2rem;
+  --space-7: 3rem;
+  --space-8: 4.5rem;
+
+  --radius-sm: 6px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+  --border-width: 1px;
+  --shadow-card: 0 2px 6px rgba(43, 29, 22, 0.08), 0 8px 24px rgba(43, 29, 22, 0.06);
+  --content-width: 66rem;
+  --measure: 62ch;
+}

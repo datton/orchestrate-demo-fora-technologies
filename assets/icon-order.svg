@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Order ticket">
+  <title>Order ticket</title>
+  <path d="M14 6 H50 V58 L43 53 L36 58 L29 53 L22 58 L14 53 Z" fill="none" stroke="#2b1d16" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M22 18 H42 M22 28 H42" stroke="#1c6a63" stroke-width="3.5" stroke-linecap="round"/>
+  <circle cx="24" cy="39" r="2.5" fill="#b5441f"/><path d="M31 39 H42" stroke="#1c6a63" stroke-width="3.5" stroke-linecap="round"/>
+</svg>
